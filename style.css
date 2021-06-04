@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-image: url("Art.jpg");
+}
+#canvas{
+    background-color: white;
+}
+span{
+    font-size: 20px;
+}
